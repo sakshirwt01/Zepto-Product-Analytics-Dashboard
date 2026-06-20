@@ -104,7 +104,7 @@ The Power BI dashboard includes:
 
 ## 📷 Dashboard Preview
 
-(Add Dashboard Screenshot Here)
+([Zepto Product Analytics Dashboard](Images/dashboard.jpeg))
 
 ## 🚀 Project Outcomes
 
