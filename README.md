@@ -1,7 +1,7 @@
 ## 🛒 Zepto Product Analytics Dashboard
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](dashboard)
 
 ## 📌 Project Overview
 
