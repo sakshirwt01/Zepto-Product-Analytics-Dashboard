@@ -1,5 +1,8 @@
 ## 🛒 Zepto Product Analytics Dashboard
 
+## 📷 Dashboard Preview
+![Dashboard Preview](dashboard.png)
+
 ## 📌 Project Overview
 
 This project analyzes Zepto's product catalog to uncover insights related to pricing, discounts, inventory availability, and category performance using SQL and Power BI.
@@ -101,10 +104,6 @@ The Power BI dashboard includes:
 - More than 450 products were identified as out of stock.
 - Premium products reached prices above ₹2500.
 - Significant inventory value was concentrated in a few major categories.
-
-## 📷 Dashboard Preview
-
-([Zepto Product Analytics Dashboard](Images/dashboard.jpeg))
 
 ## 🚀 Project Outcomes
 
